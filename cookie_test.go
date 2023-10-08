@@ -1,0 +1,5 @@
+package belajargolangweb
+
+func Hello() {
+
+}
